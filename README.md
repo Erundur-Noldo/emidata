@@ -1,5 +1,7 @@
 # emidata
-a shitty datastructure library
+a shitty datastructure library for C
+only dependent on the C standard library
+my cute overengineered pet project which I think I'll use myself when it's done in other projects, unless I discover it's total shit
 
 
 common.c and common.h contain a few internal functions which are not part of the api, but they're used by the other files. You should always add it to the files that you compile when you use any of the other files.
