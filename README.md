@@ -25,6 +25,7 @@ additions:
 - lqueue (linked queue)
 - either or both dtree and ltree
 - either or both dgraph and lgraph
+- variants of graphs (can be directed, weighted, hyper, or any combination of those)
 - maybe some sort of 'rope string' I heard of for the first time today??
 - maybe a hashmap?? dictionary/map/some other name????
 - maybe more?????????????
