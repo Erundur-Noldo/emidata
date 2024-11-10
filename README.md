@@ -13,6 +13,7 @@ improvements:
 - improve the printing function
 - add more datatypes
 - make better sorting functions
+- fix the default order function
 
 additions:
 - llist (linked list)
