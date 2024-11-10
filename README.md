@@ -18,7 +18,7 @@ improvements:
 - fix the default order function
 
 additions:
-- llist (linked list)
+- llist (linked list) (is kinda already done, but I have to rename stuff because I redesigned the naming scheme)
 - dllist (doubly linked list)
 - lstack (linked stack, the 'top' is the root)
 - dqueue (dynamically allocated queue)
